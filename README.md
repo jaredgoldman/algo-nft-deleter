@@ -1,4 +1,4 @@
-To delete all nfts in an Algorand wallet, simply add a .env file to this project with the following three parms
+To delete all nfts in an Algorand wallet, simply add a .env file to this project with the following three parms and run `node app.js`. Keep the script running for enough time to delete all of your assets.
 
 ALGO_MNEMONIC - The intended wallet's mnemonic key
 PURESTAKE_API - your purestake api key
